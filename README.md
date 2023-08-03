@@ -1,3 +1,5 @@
+This fork enables better PVP mechanics
+
 <h1 align="center">mineflayer-pvp</h1>
 <p align="center"><i>A lightweight plugin for Mineflayer that makes it easier to manage PVP and PVE actions.</i></p>
 
